@@ -1,0 +1,6 @@
+version: 1
+occasions: [date, client_dinner, group_8_plus, family, solo, late_night, hosting_visitors, quick_lunch]
+food_items: [matcha, boba, coffee, noodles, hotpot, dim_sum, bbq_skewers, dessert, seafood, regional_hunan, regional_sichuan, regional_chaoshan, regional_hakka, regional_xinjiang]
+hobbies: [running, gym, hiking, cycling, photography, gaming, coding, reading, badminton, climbing]
+taste_attributes: [sweetness, spiciness, saltiness, sourness, richness, umami, bitterness, texture]
+taste_chip_scale: [too_light, just_right, too_strong]
