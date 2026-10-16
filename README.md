@@ -1,6 +1,6 @@
 # sz-food-guide (working name)
 
-A situation-first food guide for Shenzhen residents. Instead of one universal star score, it reads what people *say*, learns each person's taste, and recommends by occasion, time of day, and community.
+A situation-first food guide for Shenzhen residents. SZFG reads what people *say*, learns each person's taste, and recommends by occasion, time of day, and community. Created by a Dianping VIP level 7 seasoned foodie, spending over 8 years out of her 20-year lifetime hunting for good restaurants in SZ, China.
 
 > Status: Phase 0 (idea refinement + manual data gathering). Design moves to Figma after ideas settle.
 
